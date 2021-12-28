@@ -1,13 +1,13 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Halo , Saya Adalah Sendi✋</h1>
 
 ## About Meh:
-- Saat ini belajar Python, JavaScript & Bash.
-- Boi Muslim
-- Tidur iz Mai Lub
-    - Tapi Bery Bezi
-- Membuat beberapa Bot Telegram & Alat iStupid lainnya.
-    - Dis membuatku Bahagia
-- Sibuk 
+- Saat ini belajar Python .
+- Saya Muslim'
+- Suka Bergadang
+    - Tapi Saya Orang Nya Gak Ganteng Bro
+- Membuat beberapa Bot Telegram & Menghibur Warga Telegram.
+    - Dia membuatku Bahagia
+- Saya Orang Nya Sibukan
 - [More on Telegram](https://t.me/SuksesMakmur)
 
 <p align="left"> <a href="https://github.com/SendiAp"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/SendiAp">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SendiAp#version3"/>
   </a>
 </p>
 <a href="https://github.com/SendiAp"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SendiAp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
@@ -86,7 +86,7 @@
 [![Sendi Adt](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Rose_Userbot"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Bots Channel:
 <a href="https://t.me/SuksesMakmur"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
