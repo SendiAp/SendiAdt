@@ -1,38 +1,31 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
 
 ## About Meh:
-- Currently learning Python, JavaScript & Bash.
-- A Muslim Boi 😇
-- Sleeping iz Mai Lub 😪
-    - But Bery Bezi 🤐
-- Making some Telegram Bots & other iStupid Tools.
-    - Dis makes me Happy 🤗
-- Busy Student 😆
-- Speaking Languages:
-    - Bangla
-    - English
-    - Hindi
-    - Banglish
-    - Hinglish
-    - Emglish
-- [More on Telegram](https://t.me/AbirHasan2005/3)
+- Saat ini belajar Python, JavaScript & Bash.
+- Boi Muslim
+- Tidur iz Mai Lub
+    - Tapi Bery Bezi
+- Membuat beberapa Bot Telegram & Alat iStupid lainnya.
+    - Dis membuatku Bahagia
+- Sibuk 
+- [More on Telegram](https://t.me/SuksesMakmur)
 
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/SendiAp"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/SendiAp"><img src="https://github-profile-trophy.vercel.app/?username=SendiAp" alt="SendiAp" /></a> </p>
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbirHasan2005&show_icons=true&locale=en" alt="AbirHasan2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SendiAp&show_icons=true&locale=en" alt="SendiAp" /></p>
 
 <details>
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasan2005)](https://github.com/AbirHasan2005)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SendiAp)](https://github.com/SendiAp)
 
 </details>
 
@@ -100,4 +93,4 @@
 
 [instagram]: https://instagram.com/Ndiap04
 [telegram]: https://t.me/pikyus1
-[facebook]: https://facebook.com/Sendi Adt
+[facebook]: https://facebook.com/SendiAdt
